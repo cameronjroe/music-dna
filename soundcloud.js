@@ -5,7 +5,7 @@
 		api: {
 			key: '83c37277b2c82f9b59b3ebbae1fd7de3',
 			secret: 'secret',
-			redirect_uri: 'http://localhost:8000/callback.html'
+			redirect_uri: 'http://localhost:3000/callback.html'
 		},
 
 		init: function () {
